@@ -8,7 +8,7 @@ This project is using Langchain and OpenAI models to upload PDF and then answer 
 ### Clone the Project to local
 
 ```
-$ git clone
+$ git clone https://github.com/SharonCao0920/webBasedChatbot.git
 ```
 
 ### Navigate to project folder
