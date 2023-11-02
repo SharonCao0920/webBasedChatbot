@@ -1,4 +1,6 @@
 # webBasedChatbot
+[Google Slide(https://docs.google.com/presentation/d/1ys4EqOPykHcVMS5On1joHcMlo-Pml2vuz3HrZ6cfgcI/edit?usp=sharing)]
+
 This project is using Langchain and OpenAI models to upload PDF and then answer questions regarding the content in the uploaded PDF file.
 
 ## To Run the Project
